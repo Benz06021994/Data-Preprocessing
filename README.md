@@ -1,5 +1,5 @@
 # Data-Preprocessing
-This repository is created to show Data Preprocessing which includes Data Exploration, Data Cleaning, Data Analysis, Data Encoding and Scaling Features
+This repository is created to show Data Preprocessing which includes Data Exploration, Data Cleaning, Data Analysis, Data Encoding and Features Scaling
 
 ## Employee-Data-Preprocessing
 The main objective of this project is to design and implement a robust data preprocessing system that addresses common challenges such as missing values, outliers, inconsistent formatting, and noise. By performing effective data preprocessing, the project aims to enhance the quality, reliability, and usefulness of the data for machine learning. 
